@@ -13,5 +13,3 @@ In this repository, I have included basic programs of the Python language that w
 Saumik Idnani
 
 [![GitHub](https://img.shields.io/badge/Github-blue.svg?logo=github&logoColor=white)](https://github.com/TheStrangeGuy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saumik-idnani)
-
-
