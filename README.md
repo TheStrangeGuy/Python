@@ -10,6 +10,8 @@ In this repository, I have included basic programs of the Python language that w
 
 ## Made by:
 
-### [Saumik Idnani](github.com/TheStrangeGuy)
+Saumik Idnani
 
-[LinkedIn](linkedin.com/saumik-idnani)
+[GitHub](https://www.github.com/TheStrangeGuy/)
+
+[LinkedIn](https://www.linkedin.com/in/saumik-idnani/)
